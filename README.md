@@ -27,13 +27,6 @@ programming, problem-solving, and software development.
 - Write clean, readable code
 - Stay consistent with learning
 
----
-
-## Projects
-- Calculator (C++)
-- Web mini-projects (HTML/CSS)
-- DSA practice solutions  
-*(More coming soon)*
 
 ---
 
